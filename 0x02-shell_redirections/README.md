@@ -1,1 +1,2 @@
-task 0. Hello World
+#!/bin/bash
+Hello, World
